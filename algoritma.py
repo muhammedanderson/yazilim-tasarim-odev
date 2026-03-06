@@ -1,0 +1,6 @@
+"def hesapla(sayi1, sayi2):" 
+"    # Bu fonksiyon iki sayi ile islem yapar" 
+"    sonuc = sayi1 + sayi2" 
+"    print(\"Sonuc:\", sonuc)" 
+"" 
+"hesapla(10, 5)" 
