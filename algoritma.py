@@ -9,6 +9,18 @@ def cikarma(sayi1, sayi2):
     print("Çıkarma Sonucu:", sonuc) # print'i içeri aldık, böylece hata vermez.
 
 # -------------------------------
+def carpma(sayi1, sayi2):
+    sonuc = sayi1 * sayi2
+    print("Çarpma Sonucu:", sonuc)
+
+def bolme(sayi1, sayi2):
+    if sayi2 != 0:
+        sonuc = sayi1 / sayi2
+        print("Bölme Sonucu:", sonuc)
+    else:
+        print("Hata: Bir sayı 0'a bölünemez!")
 
 hesapla(10, 5)
 cikarma(10, 5)
+carpma(10, 5)
+bolme(10, 5)
