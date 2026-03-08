@@ -24,3 +24,7 @@ hesapla(10, 5)
 cikarma(10, 5)
 carpma(10, 5)
 bolme(10, 5)
+def kalan_bul(a, b):
+    print("Kalan Değer:", a % b)
+
+kalan_bul(10, 3)
