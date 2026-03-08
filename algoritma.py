@@ -24,7 +24,10 @@ hesapla(10, 5)
 cikarma(10, 5)
 carpma(10, 5)
 bolme(10, 5)
+
 def mod_alma(sayi1, sayi2):
     print("Mod Sonucu:", sayi1 % sayi2)
 
 mod_alma(10, 3)
+
+
