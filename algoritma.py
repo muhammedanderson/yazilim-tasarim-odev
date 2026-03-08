@@ -20,6 +20,10 @@ def bolme(sayi1, sayi2):
     else:
         print("Hata: Bir sayı 0'a bölünemez!")
 
+ def kalan_bul(a, b):
+    print("Kalan Değer:", a % b)
+
+kalan_bul(10, 3)
 hesapla(10, 5)
 cikarma(10, 5)
 carpma(10, 5)
