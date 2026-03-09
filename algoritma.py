@@ -30,4 +30,18 @@ def mod_alma(sayi1, sayi2):
 
 mod_alma(10, 3)
 
+# --- MEVCUT KODUNUN DEVAMINA EKLEYEBİLİRSİN ---
+
+def us_alma(taban, kuvvet):
+    sonuc = taban ** kuvvet
+    print(f"{taban} üzeri {kuvvet} sonucu: {sonuc}")
+
+# Fonksiyonu test et
+us_alma(2, 3) # 2'nin 3. kuvveti: 8
+
+
+
+
+
+
 
