@@ -6,7 +6,7 @@ Senin için hem teknik hem de görsel olarak zengin, hocanın istediği tüm mad
 Bu proje, modern yazılım geliştirme süreçlerinde kullanılan Git Flow, Çatışma Çözümü (Conflict Resolution) ve Gelişmiş Git Komutlarını deneyimlemek amacıyla oluşturulmuştur.
 
 👥 Takım Üyeleri
-Muhammed Anderson (Takım Lideri)
+Muhammed Emin Saylağ
 
 Anıl Başoğlu
 
