@@ -1,9 +1,4 @@
-Harika bir fikir! README dosyası bir projenin "vitrinidir". Hoca dosyayı açtığında ne yaptığınızı, hangi zorlukları aştığınızı ve Git'i ne kadar profesyonel kullandığınızı burada görmeli.
 
-Senin için hem teknik hem de görsel olarak zengin, hocanın istediği tüm maddeleri (Rebase, Conflict, Branch Protection vb.) içeren bir taslak hazırladım.
-
-🚀 Yazılım Tasarımı ve Mimarisi - Git İş Akışı Ödevi
-Bu proje, modern yazılım geliştirme süreçlerinde kullanılan Git Flow, Çatışma Çözümü (Conflict Resolution) ve Gelişmiş Git Komutlarını deneyimlemek amacıyla oluşturulmuştur.
 
 👥 Takım Üyeleri
 Muhammed Emin Saylağ
